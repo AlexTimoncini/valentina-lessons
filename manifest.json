@@ -1,0 +1,464 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Valentina's Lessons",
+  "short_name": "Valentina's Lessons",
+  "start_url": ".",
+  "content_security_policy": "script-src 'self' https://example.com; object-src 'self'",
+  "default_locale": "it",
+  "manifest_version": 2,
+  "display": "standalone",
+  "background_color": "#cfd1e1",
+  "icons": [
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "71x71"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "89x89"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "107x107"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "142x142"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "284x284"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "188x188"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "225x225"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "300x300"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "600x600"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "310x150"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "388x188"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "465x225"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "620x300"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "1240x600"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "388x388"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "465x465"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "620x620"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "1240x1240"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "55x55"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "66x66"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "88x88"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "176x176"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "63x63"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "75x75"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "620x300"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "775x375"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "930x450"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "1240x600"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "2480x1200"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./valentina-logo-small.png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "orientation": "portrait",
+  "scope": "/",
+  "theme_color": "#1c1c1c"
+}
